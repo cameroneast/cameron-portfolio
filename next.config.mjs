@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: "export",
-    basePath: "/cameron-portfolio",
+    basePath: "/portfolio",
 };
 
 export default nextConfig;
