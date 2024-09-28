@@ -1,7 +1,5 @@
 const Resume = () => {
-  return (
-    <div>resume page</div>
-  )
-}
+  return <div>resume page</div>;
+};
 
-export default Resume
+export default Resume;
